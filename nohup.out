@@ -1,0 +1,5 @@
+处理结果为：{"state":"1","data":"cute"}
+处理结果为：{"state":"1","data":"cute","msg":"\u672a\u77e5\u9519\u8bef\u4fe1\u606f"}
+处理结果为：{"state":"1","data":"cute","msg":"\u672a\u77e5\u9519\u8bef\u4fe1\u606f"}
+处理结果为：{"state":"1","data":"cute","msg":"\u672a\u77e5\u9519\u8bef\u4fe1\u606f"}
+消费参数为：{"DATA":{"state":"1","data":"cute"}}处理结果为：{"state":"1","data":"cute","msg":"\u672a\u77e5\u9519\u8bef\u4fe1\u606f"}

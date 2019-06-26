@@ -1,0 +1,31 @@
+[2019-06-26 08:07:22] publish message... param:{"state":"1","data":"cute"}
+[2019-06-26 08:07:22] {"body":"{\"DATA\":{\"state\":\"1\",\"data\":\"cute\"}}","body_size":null,"is_truncated":false,"content_encoding":null,"delivery_info":[]}
+[2019-06-26 08:07:22] 消费参数：{"DATA":{"state":"1","data":"cute"}}
+[2019-06-26 08:07:22] this is task1 received msg.{"state":"1","data":"cute"}
+[2019-06-26 08:07:22] curl result:{"state":"1","data":"cute"}
+[2019-06-26 08:10:42] publish message... param:{"state":"1","data":"cute"}
+[2019-06-26 08:10:42] {"body":"{\"DATA\":{\"state\":\"1\",\"data\":\"cute\"}}","body_size":null,"is_truncated":false,"content_encoding":null,"delivery_info":[]}
+[2019-06-26 08:10:42] 消费参数：{"DATA":{"state":"1","data":"cute"}}
+[2019-06-26 08:10:42] received msg.{"state":"1","data":"cute"}
+[2019-06-26 08:10:42] curl result:{"state":"1","data":"cute","msg":"\u672a\u77e5\u9519\u8bef\u4fe1\u606f"}
+[2019-06-26 08:22:32] publish message... param:{"state":"1","data":"cute"}
+[2019-06-26 08:22:32] {"body":"{\"DATA\":{\"state\":\"1\",\"data\":\"cute\"}}","body_size":null,"is_truncated":false,"content_encoding":null,"delivery_info":[]}
+[2019-06-26 08:22:32] 消费参数：{"DATA":{"state":"1","data":"cute"}}
+[2019-06-26 08:22:32] received msg.{"state":"1","data":"cute"}
+[2019-06-26 08:22:32] curl result:{"state":"1","data":"cute","msg":"\u672a\u77e5\u9519\u8bef\u4fe1\u606f"}
+[2019-06-26 08:41:34] publish message... param:{"state":"1","data":"cute"}
+[2019-06-26 08:41:34] {"body":"{\"DATA\":{\"state\":\"1\",\"data\":\"cute\"}}","body_size":null,"is_truncated":false,"content_encoding":null,"delivery_info":[]}
+[2019-06-26 08:41:34] 消费参数：{"DATA":{"state":"1","data":"cute"}}
+[2019-06-26 08:41:34] received msg.{"state":"1","data":"cute"}
+[2019-06-26 08:41:34] curl result:{"state":"1","data":"cute","msg":"\u672a\u77e5\u9519\u8bef\u4fe1\u606f"}
+[2019-06-26 08:45:22] this is consumer3 received msg.
+[2019-06-26 08:45:22] this is consumer3 received msg.
+[2019-06-26 08:45:55] this is consumer3 received msg.
+[2019-06-26 08:45:55] this is consumer3 received msg.
+[2019-06-26 08:45:56] this is consumer4 received msg.
+[2019-06-26 08:45:56] this is consumer4 received msg.
+[2019-06-26 08:46:15] publish message... param:{"state":"1","data":"cute"}
+[2019-06-26 08:46:15] {"body":"{\"DATA\":{\"state\":\"1\",\"data\":\"cute\"}}","body_size":null,"is_truncated":false,"content_encoding":null,"delivery_info":[]}
+[2019-06-26 08:46:15] 消费参数：{"DATA":{"state":"1","data":"cute"}}
+[2019-06-26 08:46:15] received msg.{"state":"1","data":"cute"}
+[2019-06-26 08:46:15] curl result:{"state":"1","data":"cute","msg":"\u672a\u77e5\u9519\u8bef\u4fe1\u606f"}
